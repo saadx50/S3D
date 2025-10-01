@@ -1,0 +1,5 @@
+{
+  "name": "S3D",
+  "description": "Upload an image, choose a gender and outfit style, and let AI generate a new version of your image. This tool uses generative AI to reimagine your photos based on your creative direction.",
+  "requestFramePermissions": []
+}
